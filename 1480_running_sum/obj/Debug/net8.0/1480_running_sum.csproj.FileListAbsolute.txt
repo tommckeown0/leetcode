@@ -1,0 +1,14 @@
+C:\Users\tommc\OneDrive\Documents\leetcode\1480_running_sum\bin\Debug\net8.0\1480_running_sum.exe
+C:\Users\tommc\OneDrive\Documents\leetcode\1480_running_sum\bin\Debug\net8.0\1480_running_sum.deps.json
+C:\Users\tommc\OneDrive\Documents\leetcode\1480_running_sum\bin\Debug\net8.0\1480_running_sum.runtimeconfig.json
+C:\Users\tommc\OneDrive\Documents\leetcode\1480_running_sum\bin\Debug\net8.0\1480_running_sum.dll
+C:\Users\tommc\OneDrive\Documents\leetcode\1480_running_sum\bin\Debug\net8.0\1480_running_sum.pdb
+C:\Users\tommc\OneDrive\Documents\leetcode\1480_running_sum\obj\Debug\net8.0\1480_running_sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tommc\OneDrive\Documents\leetcode\1480_running_sum\obj\Debug\net8.0\1480_running_sum.AssemblyInfoInputs.cache
+C:\Users\tommc\OneDrive\Documents\leetcode\1480_running_sum\obj\Debug\net8.0\1480_running_sum.AssemblyInfo.cs
+C:\Users\tommc\OneDrive\Documents\leetcode\1480_running_sum\obj\Debug\net8.0\1480_running_sum.csproj.CoreCompileInputs.cache
+C:\Users\tommc\OneDrive\Documents\leetcode\1480_running_sum\obj\Debug\net8.0\1480_running_sum.dll
+C:\Users\tommc\OneDrive\Documents\leetcode\1480_running_sum\obj\Debug\net8.0\refint\1480_running_sum.dll
+C:\Users\tommc\OneDrive\Documents\leetcode\1480_running_sum\obj\Debug\net8.0\1480_running_sum.pdb
+C:\Users\tommc\OneDrive\Documents\leetcode\1480_running_sum\obj\Debug\net8.0\1480_running_sum.genruntimeconfig.cache
+C:\Users\tommc\OneDrive\Documents\leetcode\1480_running_sum\obj\Debug\net8.0\ref\1480_running_sum.dll

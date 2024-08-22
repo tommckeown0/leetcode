@@ -1,0 +1,14 @@
+C:\Users\tommc\OneDrive\Documents\leetcode\1672_richest_customer\obj\Debug\net8.0\1672_richest_customer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tommc\OneDrive\Documents\leetcode\1672_richest_customer\obj\Debug\net8.0\1672_richest_customer.AssemblyInfoInputs.cache
+C:\Users\tommc\OneDrive\Documents\leetcode\1672_richest_customer\obj\Debug\net8.0\1672_richest_customer.AssemblyInfo.cs
+C:\Users\tommc\OneDrive\Documents\leetcode\1672_richest_customer\obj\Debug\net8.0\1672_richest_customer.csproj.CoreCompileInputs.cache
+C:\Users\tommc\OneDrive\Documents\leetcode\1672_richest_customer\bin\Debug\net8.0\1672_richest_customer.exe
+C:\Users\tommc\OneDrive\Documents\leetcode\1672_richest_customer\bin\Debug\net8.0\1672_richest_customer.deps.json
+C:\Users\tommc\OneDrive\Documents\leetcode\1672_richest_customer\bin\Debug\net8.0\1672_richest_customer.runtimeconfig.json
+C:\Users\tommc\OneDrive\Documents\leetcode\1672_richest_customer\bin\Debug\net8.0\1672_richest_customer.dll
+C:\Users\tommc\OneDrive\Documents\leetcode\1672_richest_customer\bin\Debug\net8.0\1672_richest_customer.pdb
+C:\Users\tommc\OneDrive\Documents\leetcode\1672_richest_customer\obj\Debug\net8.0\1672_richest_customer.dll
+C:\Users\tommc\OneDrive\Documents\leetcode\1672_richest_customer\obj\Debug\net8.0\refint\1672_richest_customer.dll
+C:\Users\tommc\OneDrive\Documents\leetcode\1672_richest_customer\obj\Debug\net8.0\1672_richest_customer.pdb
+C:\Users\tommc\OneDrive\Documents\leetcode\1672_richest_customer\obj\Debug\net8.0\1672_richest_customer.genruntimeconfig.cache
+C:\Users\tommc\OneDrive\Documents\leetcode\1672_richest_customer\obj\Debug\net8.0\ref\1672_richest_customer.dll

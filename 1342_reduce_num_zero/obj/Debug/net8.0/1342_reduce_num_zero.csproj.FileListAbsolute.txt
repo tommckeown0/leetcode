@@ -1,0 +1,14 @@
+C:\Users\tommc\OneDrive\Documents\leetcode\1342_reduce_num_zero\bin\Debug\net8.0\1342_reduce_num_zero.exe
+C:\Users\tommc\OneDrive\Documents\leetcode\1342_reduce_num_zero\bin\Debug\net8.0\1342_reduce_num_zero.deps.json
+C:\Users\tommc\OneDrive\Documents\leetcode\1342_reduce_num_zero\bin\Debug\net8.0\1342_reduce_num_zero.runtimeconfig.json
+C:\Users\tommc\OneDrive\Documents\leetcode\1342_reduce_num_zero\bin\Debug\net8.0\1342_reduce_num_zero.dll
+C:\Users\tommc\OneDrive\Documents\leetcode\1342_reduce_num_zero\bin\Debug\net8.0\1342_reduce_num_zero.pdb
+C:\Users\tommc\OneDrive\Documents\leetcode\1342_reduce_num_zero\obj\Debug\net8.0\1342_reduce_num_zero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tommc\OneDrive\Documents\leetcode\1342_reduce_num_zero\obj\Debug\net8.0\1342_reduce_num_zero.AssemblyInfoInputs.cache
+C:\Users\tommc\OneDrive\Documents\leetcode\1342_reduce_num_zero\obj\Debug\net8.0\1342_reduce_num_zero.AssemblyInfo.cs
+C:\Users\tommc\OneDrive\Documents\leetcode\1342_reduce_num_zero\obj\Debug\net8.0\1342_reduce_num_zero.csproj.CoreCompileInputs.cache
+C:\Users\tommc\OneDrive\Documents\leetcode\1342_reduce_num_zero\obj\Debug\net8.0\1342_reduce_num_zero.dll
+C:\Users\tommc\OneDrive\Documents\leetcode\1342_reduce_num_zero\obj\Debug\net8.0\refint\1342_reduce_num_zero.dll
+C:\Users\tommc\OneDrive\Documents\leetcode\1342_reduce_num_zero\obj\Debug\net8.0\1342_reduce_num_zero.pdb
+C:\Users\tommc\OneDrive\Documents\leetcode\1342_reduce_num_zero\obj\Debug\net8.0\1342_reduce_num_zero.genruntimeconfig.cache
+C:\Users\tommc\OneDrive\Documents\leetcode\1342_reduce_num_zero\obj\Debug\net8.0\ref\1342_reduce_num_zero.dll

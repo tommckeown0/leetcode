@@ -1,0 +1,14 @@
+C:\Users\tommc\OneDrive\Documents\leetcode\412_fizz_buzz\bin\Debug\net8.0\412_fizz_buzz.exe
+C:\Users\tommc\OneDrive\Documents\leetcode\412_fizz_buzz\bin\Debug\net8.0\412_fizz_buzz.deps.json
+C:\Users\tommc\OneDrive\Documents\leetcode\412_fizz_buzz\bin\Debug\net8.0\412_fizz_buzz.runtimeconfig.json
+C:\Users\tommc\OneDrive\Documents\leetcode\412_fizz_buzz\bin\Debug\net8.0\412_fizz_buzz.dll
+C:\Users\tommc\OneDrive\Documents\leetcode\412_fizz_buzz\bin\Debug\net8.0\412_fizz_buzz.pdb
+C:\Users\tommc\OneDrive\Documents\leetcode\412_fizz_buzz\obj\Debug\net8.0\412_fizz_buzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tommc\OneDrive\Documents\leetcode\412_fizz_buzz\obj\Debug\net8.0\412_fizz_buzz.AssemblyInfoInputs.cache
+C:\Users\tommc\OneDrive\Documents\leetcode\412_fizz_buzz\obj\Debug\net8.0\412_fizz_buzz.AssemblyInfo.cs
+C:\Users\tommc\OneDrive\Documents\leetcode\412_fizz_buzz\obj\Debug\net8.0\412_fizz_buzz.csproj.CoreCompileInputs.cache
+C:\Users\tommc\OneDrive\Documents\leetcode\412_fizz_buzz\obj\Debug\net8.0\412_fizz_buzz.dll
+C:\Users\tommc\OneDrive\Documents\leetcode\412_fizz_buzz\obj\Debug\net8.0\refint\412_fizz_buzz.dll
+C:\Users\tommc\OneDrive\Documents\leetcode\412_fizz_buzz\obj\Debug\net8.0\412_fizz_buzz.pdb
+C:\Users\tommc\OneDrive\Documents\leetcode\412_fizz_buzz\obj\Debug\net8.0\412_fizz_buzz.genruntimeconfig.cache
+C:\Users\tommc\OneDrive\Documents\leetcode\412_fizz_buzz\obj\Debug\net8.0\ref\412_fizz_buzz.dll

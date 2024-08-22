@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "876_linked_list_middle/1.0.0": {
+        "runtime": {
+          "876_linked_list_middle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "876_linked_list_middle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
