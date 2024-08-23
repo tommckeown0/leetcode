@@ -1,0 +1,15 @@
+C:\Users\tommc\OneDrive\Documents\leetcode\383_ransom_note\bin\Debug\net8.0\383_ransom_note.exe
+C:\Users\tommc\OneDrive\Documents\leetcode\383_ransom_note\bin\Debug\net8.0\383_ransom_note.deps.json
+C:\Users\tommc\OneDrive\Documents\leetcode\383_ransom_note\bin\Debug\net8.0\383_ransom_note.runtimeconfig.json
+C:\Users\tommc\OneDrive\Documents\leetcode\383_ransom_note\bin\Debug\net8.0\383_ransom_note.dll
+C:\Users\tommc\OneDrive\Documents\leetcode\383_ransom_note\bin\Debug\net8.0\383_ransom_note.pdb
+C:\Users\tommc\OneDrive\Documents\leetcode\383_ransom_note\obj\Debug\net8.0\383_ransom_note.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tommc\OneDrive\Documents\leetcode\383_ransom_note\obj\Debug\net8.0\383_ransom_note.AssemblyInfoInputs.cache
+C:\Users\tommc\OneDrive\Documents\leetcode\383_ransom_note\obj\Debug\net8.0\383_ransom_note.AssemblyInfo.cs
+C:\Users\tommc\OneDrive\Documents\leetcode\383_ransom_note\obj\Debug\net8.0\383_ransom_note.csproj.CoreCompileInputs.cache
+C:\Users\tommc\OneDrive\Documents\leetcode\383_ransom_note\obj\Debug\net8.0\383_ransom_note.sourcelink.json
+C:\Users\tommc\OneDrive\Documents\leetcode\383_ransom_note\obj\Debug\net8.0\383_ransom_note.dll
+C:\Users\tommc\OneDrive\Documents\leetcode\383_ransom_note\obj\Debug\net8.0\refint\383_ransom_note.dll
+C:\Users\tommc\OneDrive\Documents\leetcode\383_ransom_note\obj\Debug\net8.0\383_ransom_note.pdb
+C:\Users\tommc\OneDrive\Documents\leetcode\383_ransom_note\obj\Debug\net8.0\383_ransom_note.genruntimeconfig.cache
+C:\Users\tommc\OneDrive\Documents\leetcode\383_ransom_note\obj\Debug\net8.0\ref\383_ransom_note.dll
