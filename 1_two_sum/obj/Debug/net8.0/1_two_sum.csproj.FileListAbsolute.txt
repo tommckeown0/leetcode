@@ -1,0 +1,15 @@
+C:\Users\tommc\OneDrive\Documents\leetcode\1_two_sum\bin\Debug\net8.0\1_two_sum.exe
+C:\Users\tommc\OneDrive\Documents\leetcode\1_two_sum\bin\Debug\net8.0\1_two_sum.deps.json
+C:\Users\tommc\OneDrive\Documents\leetcode\1_two_sum\bin\Debug\net8.0\1_two_sum.runtimeconfig.json
+C:\Users\tommc\OneDrive\Documents\leetcode\1_two_sum\bin\Debug\net8.0\1_two_sum.dll
+C:\Users\tommc\OneDrive\Documents\leetcode\1_two_sum\bin\Debug\net8.0\1_two_sum.pdb
+C:\Users\tommc\OneDrive\Documents\leetcode\1_two_sum\obj\Debug\net8.0\1_two_sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tommc\OneDrive\Documents\leetcode\1_two_sum\obj\Debug\net8.0\1_two_sum.AssemblyInfoInputs.cache
+C:\Users\tommc\OneDrive\Documents\leetcode\1_two_sum\obj\Debug\net8.0\1_two_sum.AssemblyInfo.cs
+C:\Users\tommc\OneDrive\Documents\leetcode\1_two_sum\obj\Debug\net8.0\1_two_sum.csproj.CoreCompileInputs.cache
+C:\Users\tommc\OneDrive\Documents\leetcode\1_two_sum\obj\Debug\net8.0\1_two_sum.sourcelink.json
+C:\Users\tommc\OneDrive\Documents\leetcode\1_two_sum\obj\Debug\net8.0\1_two_sum.dll
+C:\Users\tommc\OneDrive\Documents\leetcode\1_two_sum\obj\Debug\net8.0\refint\1_two_sum.dll
+C:\Users\tommc\OneDrive\Documents\leetcode\1_two_sum\obj\Debug\net8.0\1_two_sum.pdb
+C:\Users\tommc\OneDrive\Documents\leetcode\1_two_sum\obj\Debug\net8.0\1_two_sum.genruntimeconfig.cache
+C:\Users\tommc\OneDrive\Documents\leetcode\1_two_sum\obj\Debug\net8.0\ref\1_two_sum.dll

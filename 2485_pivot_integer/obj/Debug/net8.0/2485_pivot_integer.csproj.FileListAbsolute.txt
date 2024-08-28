@@ -1,0 +1,15 @@
+C:\Users\tommc\OneDrive\Documents\leetcode\2485_pivot_integer\bin\Debug\net8.0\2485_pivot_integer.exe
+C:\Users\tommc\OneDrive\Documents\leetcode\2485_pivot_integer\bin\Debug\net8.0\2485_pivot_integer.deps.json
+C:\Users\tommc\OneDrive\Documents\leetcode\2485_pivot_integer\bin\Debug\net8.0\2485_pivot_integer.runtimeconfig.json
+C:\Users\tommc\OneDrive\Documents\leetcode\2485_pivot_integer\bin\Debug\net8.0\2485_pivot_integer.dll
+C:\Users\tommc\OneDrive\Documents\leetcode\2485_pivot_integer\bin\Debug\net8.0\2485_pivot_integer.pdb
+C:\Users\tommc\OneDrive\Documents\leetcode\2485_pivot_integer\obj\Debug\net8.0\2485_pivot_integer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tommc\OneDrive\Documents\leetcode\2485_pivot_integer\obj\Debug\net8.0\2485_pivot_integer.AssemblyInfoInputs.cache
+C:\Users\tommc\OneDrive\Documents\leetcode\2485_pivot_integer\obj\Debug\net8.0\2485_pivot_integer.AssemblyInfo.cs
+C:\Users\tommc\OneDrive\Documents\leetcode\2485_pivot_integer\obj\Debug\net8.0\2485_pivot_integer.csproj.CoreCompileInputs.cache
+C:\Users\tommc\OneDrive\Documents\leetcode\2485_pivot_integer\obj\Debug\net8.0\2485_pivot_integer.sourcelink.json
+C:\Users\tommc\OneDrive\Documents\leetcode\2485_pivot_integer\obj\Debug\net8.0\2485_pivot_integer.dll
+C:\Users\tommc\OneDrive\Documents\leetcode\2485_pivot_integer\obj\Debug\net8.0\refint\2485_pivot_integer.dll
+C:\Users\tommc\OneDrive\Documents\leetcode\2485_pivot_integer\obj\Debug\net8.0\2485_pivot_integer.pdb
+C:\Users\tommc\OneDrive\Documents\leetcode\2485_pivot_integer\obj\Debug\net8.0\2485_pivot_integer.genruntimeconfig.cache
+C:\Users\tommc\OneDrive\Documents\leetcode\2485_pivot_integer\obj\Debug\net8.0\ref\2485_pivot_integer.dll
